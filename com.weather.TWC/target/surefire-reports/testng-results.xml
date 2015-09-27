@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2015-09-12T21:25:57Z" finished-at="2015-09-12T21:25:57Z">
+    <groups>
+    </groups>
+    <test name="Maven Proj Class Files" duration-ms="78" started-at="2015-09-12T21:25:57Z" finished-at="2015-09-12T21:25:57Z">
+      <class name="com.weather.TWC.MavenDemo">
+        <test-method status="PASS" signature="testMavenDemo()[pri:0, instance:com.weather.TWC.MavenDemo@2752f6e2]" name="testMavenDemo" duration-ms="44" started-at="2015-09-13T02:55:57Z" finished-at="2015-09-13T02:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMavenDemo -->
+      </class> <!-- com.weather.TWC.MavenDemo -->
+      <class name="com.weather.TWC.NewTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.weather.TWC.NewTest@7a79be86]" name="test" duration-ms="0" started-at="2015-09-13T02:55:57Z" finished-at="2015-09-13T02:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.weather.TWC.NewTest -->
+    </test> <!-- Maven Proj Class Files -->
+  </suite> <!-- Suite -->
+</testng-results>

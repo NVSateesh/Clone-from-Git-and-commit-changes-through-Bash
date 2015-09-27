@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Maven Proj Class Files">
+    <classes>
+      <class name="com.weather.TWC.MavenDemo"/>
+      <class name="com.weather.TWC.NewTest"/>
+    </classes>
+  </test> <!-- Hello to Maven world -->
+</suite> <!-- Suite -->

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="VAIO" name="com.weather.TWC.MavenDemo" tests="1" failures="0" timestamp="12 Sep 2015 17:55:12 GMT" time="0.033" errors="0">
+  <testcase name="testMavenDemo" time="0.013" classname="com.weather.TWC.MavenDemo"/>
+</testsuite>
